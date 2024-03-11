@@ -1,0 +1,179 @@
+{
+    "general": {
+        "sections": [
+            {
+                "passage": "The Importance of Sleep",
+                "difficulty": "Easy",
+                "content": "Many people underestimate the importance of a good night's sleep. Lack of sleep can have serious consequences on both our physical and mental health. Research has shown that adults should aim for 7-9 hours of sleep each night for optimal well-being.",
+                "questions": [
+                    {
+                        "question": "How many hours of sleep do adults need each night?",
+                        "options": [
+                            "a) 5-6 hours",
+                            "b) 7-9 hours (Correct)",
+                            "c) 10-12 hours"
+                        ],
+                        "correct_answer": "b"
+                    },
+                    {
+                        "question": "What can lack of sleep affect?",
+                        "options": [
+                            "a) Only physical health",
+                            "b) Only mental health",
+                            "c) Both physical and mental health (Correct)"
+                        ],
+                        "correct_answer": "c"
+                    }
+                ]
+            },
+            {
+                "passage": "Environmental Issues",
+                "difficulty": "Medium",
+                "content": "Our planet is facing numerous environmental challenges that require urgent attention. Deforestation, pollution, and climate change are just a few of the issues threatening the delicate balance of our ecosystems.",
+                "fill_in_the_blanks": {
+                    "blanks": [
+                        "Deforestation",
+                        "Climate change",
+                        "Fossil",
+                        "Environmental"
+                    ]
+                }
+            },
+            {
+                "passage": "The Benefits of Regular Exercise",
+                "difficulty": "Hard",
+                "content": "Regular exercise has numerous benefits for both the body and the mind. It helps improve cardiovascular health, reduce stress, and boost overall well-being. However, it is essential to find a balance and avoid overexertion.",
+                "questions": [
+                    {
+                        "question": "Regular exercise can have positive effects on cardiovascular health.",
+                        "options": [
+                            "True",
+                            "False",
+                            "Not Given"
+                        ],
+                        "correct_answer": "True"
+                    },
+                    {
+                        "question": "Overexertion during exercise is recommended for optimal results.",
+                        "options": [
+                            "True",
+                            "False",
+                            "Not Given"
+                        ],
+                        "correct_answer": "False"
+                    },
+                    {
+                        "question": "Exercise has no impact on mental well-being.",
+                        "options": [
+                            "True",
+                            "False",
+                            "Not Given"
+                        ],
+                        "correct_answer": "Not Given"
+                    }
+                ]
+            }
+        ]
+    },
+    "academic": {
+        "sections": [
+            {
+                "passage": "The Importance of Sleep",
+                "difficulty": "Easy",
+                "content": "Many people underestimate the importance of a good night's sleep. Lack of sleep can have serious consequences on both our physical and mental health. Research has shown that adults should aim for 7-9 hours of sleep each night for optimal well-being.",
+                "questions": [
+                    {
+                        "question": "How many hours of sleep do adults need each night?",
+                        "options": [
+                            "a) 5-6 hours",
+                            "b) 7-9 hours (Correct)",
+                            "c) 10-12 hours"
+                        ],
+                        "correct_answer": "b"
+                    },
+                    {
+                        "question": "What can lack of sleep affect?",
+                        "options": [
+                            "a) Only physical health",
+                            "b) Only mental health",
+                            "c) Both physical and mental health (Correct)"
+                        ],
+                        "correct_answer": "c"
+                    }
+                ]
+            },
+            {
+                "passage": "Environmental Issues",
+                "difficulty": "Medium",
+                "content": "Our planet is facing numerous environmental challenges that require urgent attention. Deforestation, pollution, and climate change are just a few of the issues threatening the delicate balance of our ecosystems.",
+                "fill_in_the_blanks": {
+                    "blanks": [
+                        "Deforestation",
+                        "Climate change",
+                        "Fossil",
+                        "Environmental"
+                    ]
+                }
+            },
+            {
+                "passage": "The Benefits of Regular Exercise",
+                "difficulty": "Hard",
+                "content": "Regular exercise has numerous benefits for both the body and the mind. It helps improve cardiovascular health, reduce stress, and boost overall well-being. However, it is essential to find a balance and avoid overexertion.",
+                "questions": [
+                    {
+                        "question": "Regular exercise can have positive effects on cardiovascular health.",
+                        "options": [
+                            "a) True",
+                            "b) False",
+                            "c) Not given"
+                        ],
+                        "correct_answer": "True"
+                    },
+                    {
+                        "question": "Overexertion during exercise is recommended for optimal results.",
+                        "options": [
+                            "a) True",
+                            "b) False",
+                            "c) Not given"
+                        ],
+                        "correct_answer": "False"
+                    },
+                    {
+                        "question": "Exercise has no impact on mental well-being.",
+                        "options": [
+                            "a) True",
+                            "b) False",
+                            "c) Not given"
+                        ],
+                        "correct_answer": "Not Given"
+                    }
+                ]
+            },
+            {
+                "passage": "The Impact of Technology on Society",
+                "difficulty": "Hard",
+                "content": "Technology has become an integral part of modern society, influencing various aspects of our lives. While it has brought about numerous advancements, there are concerns about its impact on social interactions and privacy.",
+                "questions": [
+                    {
+                        "question": "What is the main concern about technology's impact on society?",
+                        "options": [
+                            "a) Advancements in communication",
+                            "b) Improved efficiency",
+                            "c) Impact on social interactions and privacy (Correct)"
+                        ],
+                        "correct_answer": "c"
+                    },
+                    {
+                        "question": "How has technology influenced modern society?",
+                        "options": [
+                            "a) Negatively",
+                            "b) Positively",
+                            "c) Both positively and negatively (Correct)"
+                        ],
+                        "correct_answer": "c"
+                    }
+                ]
+            }
+        ]
+    }
+}

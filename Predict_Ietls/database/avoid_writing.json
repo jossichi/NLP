@@ -1,0 +1,8 @@
+{
+    "idioms_and_slangs": ["some idiom", "some slang", "another idiom"],
+    "short_forms": ["etc.", "i.e.", "e.g."],
+    "cliches_in_conclusion": ["in conclusion", "to sum up", "finally"],
+    "opinion_phrases": ["in my opinion", "I believe", "I think"],
+    "example_phrases": ["and so on", "etc.", "like", "e.g.", "i.e."],
+    "pronoun_list ":  ["you" , "we", "us"]
+}

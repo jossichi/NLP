@@ -1,0 +1,12 @@
+[
+    {"sentence": "I am going to the market.", "label": "correct"}, 
+    {"sentence": "I is going to the market.", "label": "incorrect"}, 
+    {"sentence": "She reads a book.", "label": "correct"}, 
+    {"sentence": "She read a book.", "label": "incorrect"},
+    {"sentence": "he are not bad", "label": "incorrect"},
+    {"sentence": "He is not bad", "label": "correct"},
+    {"sentence": "she are gonna go to the theter this last week", "label": "incorrect"},
+    {"sentence": "she is going to go to the theater this weekend", "label": "correct"},
+    {"sentence": "I has no iead", "label": "incorrect"},
+    {"sentence": "I have no idea", "label": "correct"}
+]

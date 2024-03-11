@@ -1,0 +1,65 @@
+{
+    "topics": [
+        "Sports is one of the most important draws on television today. Some people argue that the practice of showing sports on television is to blame for the poor health of young generation by encouraging them to watch rather than partake in physical activity. To what extent do you agree or disagree with this view?",
+        "Today people do less exercise. Some people believe that conducting sporting events such as the Olympics or World Cup encourage people to live healthy while others indicate that there are various other methods to remain healthy. Discuss both views and state your opinion.",
+        "Online education is rapidly increasing in popularity. What has led to this development? What are the advantages and disadvantages of online learning compared to in-class instructions? Provide examples and explanations.",
+        "We live in a world of technology these days. While the internet brings with it clear advantages, the problems in terms of control and security of information outweighs the advantages. To what extent do you agree",
+        "In order to solve traffic jam and air pollution, governments should promote the use of bicycles and restrict vehicles. To what extent do you agree or disagree?",
+        "with the increased global demand in oil and gas, undiscovered areas of the world should be opened up to access more recources. to what extend do you agree?",
+        "Many people prefer to use public transportation while others say that personal cars are the best mode of transportation. Excessive use of private cars is considered to be the main reason for the traffic jam in many cities and that's why the use of public transportation is encouraged. In your opinion what are the pros and cons of using public transport?",
+        "today,the high sales of popular consumer goods reflect the power of advertising and not real needs of the society in witch they are sold. to what extend do you agree or disagree?",
+        "The role of technology in education",
+        "Discuss the impact of social media on society",
+        "Advantages and disadvantages of renewable energy sources",
+        "Describe a memorable travel experience and its impact on you",
+        "The importance of cultural diversity in the workplace",
+        "Discuss the effects of climate change on the environment",
+        "Describe a historical event that you find interesting",
+        "The influence of art and culture on human emotions",
+        "Benefits and challenges of globalization",
+        "Discuss the role of government in addressing environmental issues",
+        "In a number of countries some people think it is necessary to spend large sums of money on constructing high speed railway lines for inter-city travel. Others believe this money should be spent on improving existing public transport. Discuss both views and give your opinion.",
+        "According to certain studies, despite unprecedented growth in the international trade, poor nations have not been able to get the benefits of globalization. To what extent do you agree or disagree with this opinion? Give reasons for your answer and include any relevant examples from your own knowledge or experience.",
+        "For many young people today, shopping is their favourite free time activity. Why do you think this has happened? Should young people be encouraged to do different activities in their free time? Give reason for your answer and include any relevant examples from your own experience or knowledge.       "
+    ],
+
+    "letters": [
+        "You need a website for your business, and you would like to ask your friend to build it. Write a letter to your friend. Include a brief description of your business, explain what you would like to have on the website, and provide some ideas on the use of images on the website.",
+        
+        "You have read a news article in the local newspaper about a city or town you know, and some of the information was incorrect. Write a letter to the news editor. In your letter, say how you know about that city or town, explain what information was wrong, and suggest how the editor could fix this error.",
+        
+        "You recently bought an electronic device for your home. Your friend wants to buy the same device and has asked for your advice. Write a letter to your friend. In your letter, describe the device, please explain why you bought it, and say whether or not your friend should buy it and why.",
+        
+        "You are due to start a new job next week but you will not be able to because you have some problems. Write a letter to your new employer. In your letter, explain your situation, describe your problems, and tell him/her when you think you can start.",
+        
+        "On a recent holiday you lost a valuable item. Fortunately, you have travel insurance to cover the cost of anything lost. Write a letter to the manager of your insurance company. In your letter, describe the item you lost, explain how you lost it, and tell the insurance company what you would like them to do.",
+
+        "You travelled by plane last week and your suitcase was lost. You have still heard nothing from the airline company. Write to the airline and, explain what happened, describe your suitcase and tell them what was in it, find out what they are going to do about it",
+        
+        "You want to sell some of your furniture. You think a friend of yours might like to buy it from you. Write a letter to your friend. In your letter, explain why you are selling, describe the furniture, suggest a date when your friend can come and see the furniture"
+    ],
+    "data":{
+      "production_steps": [
+          "Customer Order Received",
+          "Materials Procurement",
+          "Quality Control of Materials",
+          "Production Planning",
+          "Manufacturing",
+          "Quality Control of Finished Products",
+          "Packaging",
+          "Shipping",
+          "Customer Delivery"
+      ],
+      "production_connections": [
+          {"start": "Customer Order Received", "end": "Materials Procurement"},
+          {"start": "Materials Procurement", "end": "Quality Control of Materials"},
+          {"start": "Quality Control of Materials", "end": "Production Planning"},
+          {"start": "Production Planning", "end": "Manufacturing"},
+          {"start": "Manufacturing", "end": "Quality Control of Finished Products"},
+          {"start": "Quality Control of Finished Products", "end": "Packaging"},
+          {"start": "Packaging", "end": "Shipping"},
+          {"start": "Shipping", "end": "Customer Delivery"}
+      ]
+    }
+}
+      

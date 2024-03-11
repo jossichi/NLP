@@ -1,0 +1,2503 @@
+{
+  "verbs": [
+    {
+      "number": "STT",
+      "infinitive": "Nguyên thể",
+      "V2": "Quá khứ",
+      "V3": "Quá khứ phân từ ",
+      "meaning": "Nghĩa"
+    },
+    {
+      "number": "1",
+      "infinitive": "abide",
+      "V2": "abode/abided",
+      "V3": "abode/abided",
+      "meaning": "lưu trú, lưu lại"
+    },
+    {
+      "number": "2",
+      "infinitive": "arise",
+      "V2": "arose",
+      "V3": "arisen",
+      "meaning": "phát sinh"
+    },
+    {
+      "number": "3",
+      "infinitive": "awake",
+      "V2": "awoke",
+      "V3": "awoken",
+      "meaning": "đánh thức, thức"
+    },
+    {
+      "number": "4",
+      "infinitive": "backslide",
+      "V2": "backslid",
+      "V3": "backslidden/backslid",
+      "meaning": "tái phạm"
+    },
+    {
+      "number": "5",
+      "infinitive": "be",
+      "V2": "was/were",
+      "V3": "been",
+      "meaning": "thì, là, bị, ở"
+    },
+    {
+      "number": "6",
+      "infinitive": "bear",
+      "V2": "bore",
+      "V3": "borne",
+      "meaning": "mang, chịu đựng"
+    },
+    {
+      "number": "7",
+      "infinitive": "beat",
+      "V2": "beat",
+      "V3": "beaten/beat",
+      "meaning": "đánh, đập"
+    },
+    {
+      "number": "8",
+      "infinitive": "become",
+      "V2": "became",
+      "V3": "become",
+      "meaning": "trở nên"
+    },
+    {
+      "number": "9",
+      "infinitive": "befall",
+      "V2": "befell",
+      "V3": "befallen",
+      "meaning": "xảy đến"
+    },
+    {
+      "number": "10",
+      "infinitive": "begin",
+      "V2": "began",
+      "V3": "begun",
+      "meaning": "bắt đầu"
+    },
+    {
+      "number": "11",
+      "infinitive": "behold",
+      "V2": "beheld",
+      "V3": "beheld",
+      "meaning": "ngắm nhìn"
+    },
+    {
+      "number": "12",
+      "infinitive": "bend",
+      "V2": "bent",
+      "V3": "bent",
+      "meaning": "bẻ cong"
+    },
+    {
+      "number": "13",
+      "infinitive": "beset",
+      "V2": "beset",
+      "V3": "beset",
+      "meaning": "bao quanh"
+    },
+    {
+      "number": "14",
+      "infinitive": "bespeak",
+      "V2": "bespoke",
+      "V3": "bespoken",
+      "meaning": "chứng tỏ"
+    },
+    {
+      "number": "15",
+      "infinitive": "bet",
+      "V2": "bet/betted",
+      "V3": "bet/betted",
+      "meaning": "đánh cược, cá cược"
+    },
+    {
+      "number": "16",
+      "infinitive": "bid",
+      "V2": "bid",
+      "V3": "bid",
+      "meaning": "trả giá"
+    },
+    {
+      "number": "17",
+      "infinitive": "bind",
+      "V2": "bound",
+      "V3": "bound",
+      "meaning": "buộc, trói"
+    },
+    {
+      "number": "18",
+      "infinitive": "bite",
+      "V2": "bit",
+      "V3": "bitten",
+      "meaning": "cắn"
+    },
+    {
+      "number": "19",
+      "infinitive": "bleed",
+      "V2": "bled",
+      "V3": "bled",
+      "meaning": "chảy máu"
+    },
+    {
+      "number": "20",
+      "infinitive": "blow",
+      "V2": "blew",
+      "V3": "blown",
+      "meaning": "thổi"
+    },
+    {
+      "number": "21",
+      "infinitive": "break",
+      "V2": "broke",
+      "V3": "broken",
+      "meaning": "đập vỡ"
+    },
+    {
+      "number": "22",
+      "infinitive": "breed",
+      "V2": "bred",
+      "V3": "bred",
+      "meaning": "nuôi, dạy dỗ"
+    },
+    {
+      "number": "23",
+      "infinitive": "bring",
+      "V2": "brought",
+      "V3": "brought",
+      "meaning": "mang đến"
+    },
+    {
+      "number": "24",
+      "infinitive": "broadcast",
+      "V2": "broadcast",
+      "V3": "broadcast",
+      "meaning": "phát thanh"
+    },
+    {
+      "number": "25",
+      "infinitive": "browbeat",
+      "V2": "browbeat",
+      "V3": "browbeaten/browbeat",
+      "meaning": "hăm dọa"
+    },
+    {
+      "number": "26",
+      "infinitive": "build",
+      "V2": "built",
+      "V3": "built",
+      "meaning": "xây dựng"
+    },
+    {
+      "number": "27",
+      "infinitive": "burn",
+      "V2": "burnt/burned",
+      "V3": "burnt/burned",
+      "meaning": "đốt, cháy"
+    },
+    {
+      "number": "28",
+      "infinitive": "burst",
+      "V2": "burst",
+      "V3": "burst",
+      "meaning": "nổ tung, vỡ òa"
+    },
+    {
+      "number": "29",
+      "infinitive": "bust",
+      "V2": "busted/bust",
+      "V3": "busted/bust",
+      "meaning": "làm bể, làm vỡ"
+    },
+    {
+      "number": "30",
+      "infinitive": "buy",
+      "V2": "bought",
+      "V3": "bought",
+      "meaning": "mua"
+    },
+    {
+      "number": "31",
+      "infinitive": "cast",
+      "V2": "cast",
+      "V3": "cast",
+      "meaning": "ném, tung"
+    },
+    {
+      "number": "32",
+      "infinitive": "catch",
+      "V2": "caught",
+      "V3": "caught",
+      "meaning": "bắt, chụp"
+    },
+    {
+      "number": "33",
+      "infinitive": "chide",
+      "V2": "chid/chided",
+      "V3": "chid/chidden/chided",
+      "meaning": "mắng, chửi"
+    },
+    {
+      "number": "34",
+      "infinitive": "choose",
+      "V2": "chose",
+      "V3": "chosen",
+      "meaning": "chọn, lựa"
+    },
+    {
+      "number": "35",
+      "infinitive": "cleave",
+      "V2": "clove/cleft/cleaved",
+      "V3": "cloven/cleft/cleaved",
+      "meaning": "chẻ, tách hai"
+    },
+    {
+      "number": "36",
+      "infinitive": "cleave",
+      "V2": "clave",
+      "V3": "cleaved",
+      "meaning": "dính chặt"
+    },
+    {
+      "number": "37",
+      "infinitive": "cling",
+      "V2": "clung",
+      "V3": "clung",
+      "meaning": "bám vào, dính vào"
+    },
+    {
+      "number": "38",
+      "infinitive": "clothe",
+      "V2": "clothed/clad",
+      "V3": "clothed/clad",
+      "meaning": "che phủ"
+    },
+    {
+      "number": "39",
+      "infinitive": "come",
+      "V2": "came",
+      "V3": "come",
+      "meaning": "đến, đi đến"
+    },
+    {
+      "number": "40",
+      "infinitive": "cost",
+      "V2": "cost",
+      "V3": "cost",
+      "meaning": "có giá là"
+    },
+    {
+      "number": "41",
+      "infinitive": "creep",
+      "V2": "crept",
+      "V3": "crept",
+      "meaning": "bò, trườn, lẻn"
+    },
+    {
+      "number": "42",
+      "infinitive": "crossbreed",
+      "V2": "crossbred",
+      "V3": "crossbred",
+      "meaning": "cho lai giống"
+    },
+    {
+      "number": "43",
+      "infinitive": "crow",
+      "V2": "crew/crewed",
+      "V3": "crowed",
+      "meaning": "gáy (gà)"
+    },
+    {
+      "number": "44",
+      "infinitive": "cut",
+      "V2": "cut",
+      "V3": "cut",
+      "meaning": "cắt, chặt"
+    },
+    {
+      "number": "46",
+      "infinitive": "deal",
+      "V2": "dealt",
+      "V3": "dealt",
+      "meaning": "giao thiệp"
+    },
+    {
+      "number": "47",
+      "infinitive": "dig",
+      "V2": "dug",
+      "V3": "dug",
+      "meaning": "đào"
+    },
+    {
+      "number": "48",
+      "infinitive": "disprove",
+      "V2": "disproved",
+      "V3": "disproved/disproven",
+      "meaning": "bác bỏ"
+    },
+    {
+      "number": "49",
+      "infinitive": "dive",
+      "V2": "dove/dived",
+      "V3": "dived",
+      "meaning": "lặn, lao xuống"
+    },
+    {
+      "number": "50",
+      "infinitive": "do",
+      "V2": "did",
+      "V3": "done",
+      "meaning": "làm"
+    },
+    {
+      "number": "51",
+      "infinitive": "draw",
+      "V2": "drew",
+      "V3": "drawn",
+      "meaning": "vẽ, kéo"
+    },
+    {
+      "number": "52",
+      "infinitive": "dream",
+      "V2": "dreamt/dreamed",
+      "V3": "dreamt/dreamed",
+      "meaning": "mơ thấy"
+    },
+    {
+      "number": "53",
+      "infinitive": "drink",
+      "V2": "drank",
+      "V3": "drunk",
+      "meaning": "uống"
+    },
+    {
+      "number": "54",
+      "infinitive": "drive",
+      "V2": "drove",
+      "V3": "driven",
+      "meaning": "lái xe"
+    },
+    {
+      "number": "55",
+      "infinitive": "dwell",
+      "V2": "dwelt",
+      "V3": "dwelt",
+      "meaning": "trú ngụ, ở"
+    },
+    {
+      "number": "56",
+      "infinitive": "eat",
+      "V2": "ate",
+      "V3": "eaten",
+      "meaning": "ăn"
+    },
+    {
+      "number": "57",
+      "infinitive": "fall",
+      "V2": "fell",
+      "V3": "fallen",
+      "meaning": "ngã, rơi"
+    },
+    {
+      "number": "58",
+      "infinitive": "feed",
+      "V2": "fed",
+      "V3": "fed",
+      "meaning": "cho ăn, ăn, nuôi"
+    },
+    {
+      "number": "59",
+      "infinitive": "feel",
+      "V2": "felt",
+      "V3": "felt",
+      "meaning": "cảm thấy"
+    },
+    {
+      "number": "60",
+      "infinitive": "fight",
+      "V2": "fought",
+      "V3": "fought",
+      "meaning": "chiến đấu"
+    },
+    {
+      "number": "61",
+      "infinitive": "find",
+      "V2": "found",
+      "V3": "found",
+      "meaning": "tìm thấy, thấy"
+    },
+    {
+      "number": "62",
+      "infinitive": "fit",
+      "V2": "fitted/fit",
+      "V3": "fitted/fit",
+      "meaning": "làm cho vừa, làm cho hợp"
+    },
+    {
+      "number": "63",
+      "infinitive": "flee",
+      "V2": "fled",
+      "V3": "fled",
+      "meaning": "chạy trốn"
+    },
+    {
+      "number": "64",
+      "infinitive": "fling",
+      "V2": "flung",
+      "V3": "flung",
+      "meaning": "tung, quăng"
+    },
+    {
+      "number": "65",
+      "infinitive": "fly",
+      "V2": "flew",
+      "V3": "flown",
+      "meaning": "bay"
+    },
+    {
+      "number": "66",
+      "infinitive": "forbear",
+      "V2": "forbore",
+      "V3": "forborne",
+      "meaning": "nhịn"
+    },
+    {
+      "number": "67",
+      "infinitive": "forbid",
+      "V2": "forbade/forbad",
+      "V3": "forbidden",
+      "meaning": "cấm, cấm đoán"
+    },
+    {
+      "number": "68",
+      "infinitive": "forecast",
+      "V2": "forecast/forecasted",
+      "V3": "forecast/forecasted",
+      "meaning": "tiên đoán"
+    },
+    {
+      "number": "69",
+      "infinitive": "forego (also forgo)",
+      "V2": "forewent",
+      "V3": "foregone",
+      "meaning": "bỏ, kiêng"
+    },
+    {
+      "number": "70",
+      "infinitive": "foresee",
+      "V2": "foresaw",
+      "V3": "forseen",
+      "meaning": "thấy trước"
+    },
+    {
+      "number": "71",
+      "infinitive": "foretell",
+      "V2": "foretold",
+      "V3": "foretold",
+      "meaning": "đoán trước"
+    },
+    {
+      "number": "72",
+      "infinitive": "forget",
+      "V2": "forgot",
+      "V3": "forgotten",
+      "meaning": "quên"
+    },
+    {
+      "number": "73",
+      "infinitive": "forgive",
+      "V2": "forgave",
+      "V3": "forgiven",
+      "meaning": "tha thứ"
+    },
+    {
+      "number": "74",
+      "infinitive": "forsake",
+      "V2": "forsook",
+      "V3": "forsaken",
+      "meaning": "ruồng bỏ"
+    },
+    {
+      "number": "75",
+      "infinitive": "freeze",
+      "V2": "froze",
+      "V3": "frozen",
+      "meaning": "(làm) đông lại"
+    },
+    {
+      "number": "76",
+      "infinitive": "frostbite",
+      "V2": "frostbit",
+      "V3": "frostbitten",
+      "meaning": "bỏng lạnh"
+    },
+    {
+      "number": "77",
+      "infinitive": "get",
+      "V2": "got",
+      "V3": "got/gotten",
+      "meaning": "có được"
+    },
+    {
+      "number": "78",
+      "infinitive": "gild",
+      "V2": "gilt/gilded",
+      "V3": "gilt/gilded",
+      "meaning": "mạ vàng"
+    },
+    {
+      "number": "79",
+      "infinitive": "gird",
+      "V2": "girt/girded",
+      "V3": "girt/girded",
+      "meaning": "đeo vào"
+    },
+    {
+      "number": "80",
+      "infinitive": "give",
+      "V2": "gave",
+      "V3": "given",
+      "meaning": "cho"
+    },
+    {
+      "number": "81",
+      "infinitive": "go",
+      "V2": "went",
+      "V3": "gone",
+      "meaning": "đi"
+    },
+    {
+      "number": "82",
+      "infinitive": "grind",
+      "V2": "ground",
+      "V3": "ground",
+      "meaning": "nghiền, xay"
+    },
+    {
+      "number": "83",
+      "infinitive": "grow",
+      "V2": "grew",
+      "V3": "grown",
+      "meaning": "mọc, trồng"
+    },
+    {
+      "number": "84",
+      "infinitive": "hand-feed",
+      "V2": "hand-fed",
+      "V3": "hand-fed",
+      "meaning": "cho ăn bằng tay"
+    },
+    {
+      "number": "85",
+      "infinitive": "handwrite",
+      "V2": "handwrote",
+      "V3": "handwritten",
+      "meaning": "viết tay"
+    },
+    {
+      "number": "86",
+      "infinitive": "hang",
+      "V2": "hung",
+      "V3": "hung",
+      "meaning": "móc lên, treo lên"
+    },
+    {
+      "number": "87",
+      "infinitive": "have",
+      "V2": "had",
+      "V3": "had",
+      "meaning": "có"
+    },
+    {
+      "number": "88",
+      "infinitive": "hear",
+      "V2": "heard",
+      "V3": "heard",
+      "meaning": "nghe"
+    },
+    {
+      "number": "89",
+      "infinitive": "heave",
+      "V2": "hove/heaved",
+      "V3": "hove/heaved",
+      "meaning": "trục lên"
+    },
+    {
+      "number": "90",
+      "infinitive": "hew",
+      "V2": "hewed",
+      "V3": "hewn/hewed",
+      "meaning": "chặt, đốn"
+    },
+    {
+      "number": "91",
+      "infinitive": "hide",
+      "V2": "hid",
+      "V3": "hidden",
+      "meaning": "giấu, trốn, nấp"
+    },
+    {
+      "number": "92",
+      "infinitive": "hit",
+      "V2": "hit",
+      "V3": "hit",
+      "meaning": "đụng"
+    },
+    {
+      "number": "93",
+      "infinitive": "hurt",
+      "V2": "hurt",
+      "V3": "hurt",
+      "meaning": "làm đau"
+    },
+    {
+      "number": "94",
+      "infinitive": "inbreed",
+      "V2": "inbred",
+      "V3": "inbred",
+      "meaning": "lai giống cận huyết"
+    },
+    {
+      "number": "95",
+      "infinitive": "inlay",
+      "V2": "inlaid",
+      "V3": "inlaid",
+      "meaning": "cẩn, khảm"
+    },
+    {
+      "number": "96",
+      "infinitive": "input",
+      "V2": "input",
+      "V3": "input",
+      "meaning": "đưa vào"
+    },
+    {
+      "number": "97",
+      "infinitive": "inset",
+      "V2": "inset",
+      "V3": "inset",
+      "meaning": "dát, ghép"
+    },
+    {
+      "number": "98",
+      "infinitive": "interbreed",
+      "V2": "interbred",
+      "V3": "interbred",
+      "meaning": "giao phối, lai giống"
+    },
+    {
+      "number": "100",
+      "infinitive": "interwind",
+      "V2": "interwound",
+      "V3": "interwound",
+      "meaning": "cuộn vào, quấn vào"
+    },
+    {
+      "number": "101",
+      "infinitive": "jerry-build",
+      "V2": "jerry-built",
+      "V3": "jerry-built",
+      "meaning": "xây dựng cẩu thả"
+    },
+    {
+      "number": "102",
+      "infinitive": "keep",
+      "V2": "kept",
+      "V3": "kept",
+      "meaning": "giữ"
+    },
+    {
+      "number": "103",
+      "infinitive": "kneel",
+      "V2": "knelt/kneeled",
+      "V3": "knelt/kneeled",
+      "meaning": "quỳ"
+    },
+    {
+      "number": "104",
+      "infinitive": "knit",
+      "V2": "knit/knitted",
+      "V3": "knit/knitted",
+      "meaning": "đan"
+    },
+    {
+      "number": "105",
+      "infinitive": "know",
+      "V2": "knew",
+      "V3": "known",
+      "meaning": "biết, quen biết"
+    },
+    {
+      "number": "106",
+      "infinitive": "lay",
+      "V2": "laid",
+      "V3": "laid",
+      "meaning": "đặt, để"
+    },
+    {
+      "number": "107",
+      "infinitive": "lead",
+      "V2": "led",
+      "V3": "led",
+      "meaning": "dẫn dắt, lãnh đạo"
+    },
+    {
+      "number": "108",
+      "infinitive": "lean",
+      "V2": "leaned/leant",
+      "V3": "leaned/leant",
+      "meaning": "dựa, tựa"
+    },
+    {
+      "number": "109",
+      "infinitive": "leap",
+      "V2": "leapt",
+      "V3": "leapt",
+      "meaning": "nhảy, nhảy qua"
+    },
+    {
+      "number": "110",
+      "infinitive": "learn",
+      "V2": "learnt/learned",
+      "V3": "learnt/learned",
+      "meaning": "học, được biết"
+    },
+    {
+      "number": "111",
+      "infinitive": "leave",
+      "V2": "left",
+      "V3": "left",
+      "meaning": "ra đi, để lại"
+    },
+    {
+      "number": "112",
+      "infinitive": "lend",
+      "V2": "lent",
+      "V3": "lent",
+      "meaning": "cho mượn"
+    },
+    {
+      "number": "113",
+      "infinitive": "let",
+      "V2": "let",
+      "V3": "let",
+      "meaning": "cho phép, để cho"
+    },
+    {
+      "number": "114",
+      "infinitive": "lie",
+      "V2": "lay",
+      "V3": "lain",
+      "meaning": "nằm"
+    },
+    {
+      "number": "115",
+      "infinitive": "light",
+      "V2": "lit/lighted",
+      "V3": "lit/lighted",
+      "meaning": "thắp sáng"
+    },
+    {
+      "number": "116",
+      "infinitive": "lip-read",
+      "V2": "lip-read",
+      "V3": "lip-read",
+      "meaning": "mấp máy môi"
+    },
+    {
+      "number": "117",
+      "infinitive": "lose",
+      "V2": "lost",
+      "V3": "lost",
+      "meaning": "làm mất, mất"
+    },
+    {
+      "number": "118",
+      "infinitive": "make",
+      "V2": "made",
+      "V3": "made",
+      "meaning": "chế tạo, sản xuất"
+    },
+    {
+      "number": "119",
+      "infinitive": "mean",
+      "V2": "meant",
+      "V3": "meant",
+      "meaning": "có nghĩa là"
+    },
+    {
+      "number": "120",
+      "infinitive": "meet",
+      "V2": "met",
+      "V3": "met",
+      "meaning": "gặp mặt"
+    },
+    {
+      "number": "121",
+      "infinitive": "miscast",
+      "V2": "miscast",
+      "V3": "miscast",
+      "meaning": "chọn vai đóng không hợp"
+    },
+    {
+      "number": "122",
+      "infinitive": "misdeal",
+      "V2": "misdealt",
+      "V3": "misdealt",
+      "meaning": "chia lộn bài, chia bài sai"
+    },
+    {
+      "number": "123",
+      "infinitive": "misdo",
+      "V2": "misdid",
+      "V3": "misdone",
+      "meaning": "phạm lỗi"
+    },
+    {
+      "number": "124",
+      "infinitive": "mishear",
+      "V2": "misheard",
+      "V3": "misheard",
+      "meaning": "nghe nhầm"
+    },
+    {
+      "number": "125",
+      "infinitive": "mislay",
+      "V2": "mislaid",
+      "V3": "mislaid",
+      "meaning": "để lạc mất"
+    },
+    {
+      "number": "126",
+      "infinitive": "mislead",
+      "V2": "misled",
+      "V3": "misled",
+      "meaning": "làm lạc đường"
+    },
+    {
+      "number": "128",
+      "infinitive": "misread",
+      "V2": "misread",
+      "V3": "misread",
+      "meaning": "đọc sai"
+    },
+    {
+      "number": "129",
+      "infinitive": "misset",
+      "V2": "misset",
+      "V3": "misset",
+      "meaning": "đặt sai chỗ"
+    },
+    {
+      "number": "130",
+      "infinitive": "misspeak",
+      "V2": "misspoke",
+      "V3": "misspoken",
+      "meaning": "nói sai"
+    },
+    {
+      "number": "131",
+      "infinitive": "misspell",
+      "V2": "misspelt",
+      "V3": "misspelt",
+      "meaning": "viết sai chính tả"
+    },
+    {
+      "number": "132",
+      "infinitive": "misspend",
+      "V2": "misspent",
+      "V3": "misspent",
+      "meaning": "tiêu phí, bỏ phí"
+    },
+    {
+      "number": "133",
+      "infinitive": "mistake",
+      "V2": "mistook",
+      "V3": "mistaken",
+      "meaning": "phạm lỗi, lầm lẫn"
+    },
+    {
+      "number": "134",
+      "infinitive": "misteach",
+      "V2": "mistaught",
+      "V3": "mistaught",
+      "meaning": "dạy sai"
+    },
+    {
+      "number": "135",
+      "infinitive": "misunderstand",
+      "V2": "misunderstood",
+      "V3": "misunderstood",
+      "meaning": "hiểu lầm"
+    },
+    {
+      "number": "136",
+      "infinitive": "miswrite",
+      "V2": "miswrote",
+      "V3": "miswritten",
+      "meaning": "viết sai"
+    },
+    {
+      "number": "137",
+      "infinitive": "mow",
+      "V2": "mowed",
+      "V3": "mown/mowed",
+      "meaning": "cắt cỏ"
+    },
+    {
+      "number": "138",
+      "infinitive": "offset",
+      "V2": "offset",
+      "V3": "offset",
+      "meaning": "đền bù"
+    },
+    {
+      "number": "139",
+      "infinitive": "outbid",
+      "V2": "outbid",
+      "V3": "outbid",
+      "meaning": "trả hơn giá"
+    },
+    {
+      "number": "140",
+      "infinitive": "outbreed",
+      "V2": "outbred",
+      "V3": "outbred",
+      "meaning": "giao phối xa"
+    },
+    {
+      "number": "141",
+      "infinitive": "outdo",
+      "V2": "outdid",
+      "V3": "outdone",
+      "meaning": "làm giỏi hơn"
+    },
+    {
+      "number": "142",
+      "infinitive": "outdraw",
+      "V2": "outdrew",
+      "V3": "outdrawn",
+      "meaning": "rút súng ra nhanh hơn"
+    },
+    {
+      "number": "143",
+      "infinitive": "outdrink",
+      "V2": "outdrank",
+      "V3": "outdrunk",
+      "meaning": "uống quá chén"
+    },
+    {
+      "number": "144",
+      "infinitive": "outdrive",
+      "V2": "outdrove",
+      "V3": "outdriven",
+      "meaning": "lái nhanh hơn"
+    },
+    {
+      "number": "145",
+      "infinitive": "outfight",
+      "V2": "outfought",
+      "V3": "outfought",
+      "meaning": "đánh giỏi hơn"
+    },
+    {
+      "number": "146",
+      "infinitive": "outfly",
+      "V2": "outflew",
+      "V3": "outflown",
+      "meaning": "bay cao/xa hơn"
+    },
+    {
+      "number": "147",
+      "infinitive": "outgrow",
+      "V2": "outgrew",
+      "V3": "outgrown",
+      "meaning": "lớn nhanh hơn"
+    },
+    {
+      "number": "148",
+      "infinitive": "outleap",
+      "V2": "outleaped/outleapt",
+      "V3": "outleaped/outleapt",
+      "meaning": "nhảy cao/xa hơn"
+    },
+    {
+      "number": "149",
+      "infinitive": "outlie",
+      "V2": "outlied",
+      "V3": "outlied",
+      "meaning": "nói dối"
+    },
+    {
+      "number": "150",
+      "infinitive": "output",
+      "V2": "output",
+      "V3": "output",
+      "meaning": "cho ra (dữ kiện)"
+    },
+    {
+      "number": "151",
+      "infinitive": "outride",
+      "V2": "outrode",
+      "V3": "outridden",
+      "meaning": "cưỡi ngựa giỏi hơn"
+    },
+    {
+      "number": "152",
+      "infinitive": "outrun",
+      "V2": "outran",
+      "V3": "outrun",
+      "meaning": "chạy nhanh hơn, vượt giá"
+    },
+    {
+      "number": "153",
+      "infinitive": "outsell",
+      "V2": "outsold",
+      "V3": "outsold",
+      "meaning": "bán nhanh hơn"
+    },
+    {
+      "number": "154",
+      "infinitive": "outshine",
+      "V2": "outshined/outshone",
+      "V3": "outshined/outshone",
+      "meaning": "sáng hơn, rạng rỡ hơn"
+    },
+    {
+      "number": "155",
+      "infinitive": "outshoot",
+      "V2": "outshot",
+      "V3": "outshot",
+      "meaning": "bắn giỏi hơn, nảy mầm, mọc"
+    },
+    {
+      "number": "156",
+      "infinitive": "outsing",
+      "V2": "outsang",
+      "V3": "outsung",
+      "meaning": "hát hay hơn"
+    },
+    {
+      "number": "157",
+      "infinitive": "outsit",
+      "V2": "outsat",
+      "V3": "outsat",
+      "meaning": "ngồi lâu hơn"
+    },
+    {
+      "number": "158",
+      "infinitive": "outsleep",
+      "V2": "outslept",
+      "V3": "outslept",
+      "meaning": "ngủ lâu/muộn hơn"
+    },
+    {
+      "number": "159",
+      "infinitive": "outsmell",
+      "V2": "outsmelled/outsmelt",
+      "V3": "outsmelled/outsmelt",
+      "meaning": "khám phá, đánh hơi, sặc mùi"
+    },
+    {
+      "number": "160",
+      "infinitive": "outspeak",
+      "V2": "outspoke",
+      "V3": "outspoken",
+      "meaning": "nói nhiều/dài/to hơn"
+    },
+    {
+      "number": "161",
+      "infinitive": "outspeed",
+      "V2": "outsped",
+      "V3": "outsped",
+      "meaning": "đi/chạy nhanh hơn"
+    },
+    {
+      "number": "162",
+      "infinitive": "outspend",
+      "V2": "outspent",
+      "V3": "outspent",
+      "meaning": "tiêu tiền nhiều hơn"
+    },
+    {
+      "number": "163",
+      "infinitive": "outswear",
+      "V2": "outswore",
+      "V3": "outsworn",
+      "meaning": "nguyền rủa nhiều hơn"
+    },
+    {
+      "number": "164",
+      "infinitive": "outswim",
+      "V2": "outswam",
+      "V3": "outswum",
+      "meaning": "bơi giỏi hơn"
+    },
+    {
+      "number": "165",
+      "infinitive": "outthink",
+      "V2": "outthought",
+      "V3": "outthought",
+      "meaning": "suy nghĩ nhanh hơn"
+    },
+    {
+      "number": "166",
+      "infinitive": "outthrow",
+      "V2": "outthrew",
+      "V3": "outthrown",
+      "meaning": "ném nhanh hơn"
+    },
+    {
+      "number": "167",
+      "infinitive": "outwrite",
+      "V2": "outwrote",
+      "V3": "outwritten",
+      "meaning": "viết nhanh hơn"
+    },
+    {
+      "number": "168",
+      "infinitive": "overbid",
+      "V2": "overbid",
+      "V3": "overbid",
+      "meaning": "trả giá/bỏ thầu cao hơn"
+    },
+    {
+      "number": "169",
+      "infinitive": "overbreed",
+      "V2": "overbred",
+      "V3": "overbred",
+      "meaning": "nuôi quá nhiều"
+    },
+    {
+      "number": "170",
+      "infinitive": "overbuild",
+      "V2": "overbuilt",
+      "V3": "overbuilt",
+      "meaning": "xây quá nhiều"
+    },
+    {
+      "number": "171",
+      "infinitive": "overbuy",
+      "V2": "overbought",
+      "V3": "overbought",
+      "meaning": "mua quá nhiều"
+    },
+    {
+      "number": "172",
+      "infinitive": "overcome",
+      "V2": "overcame",
+      "V3": "overcome",
+      "meaning": "khắc phục"
+    },
+    {
+      "number": "173",
+      "infinitive": "overdo",
+      "V2": "overdid",
+      "V3": "overdone",
+      "meaning": "dùng quá mức, làm quá"
+    },
+    {
+      "number": "174",
+      "infinitive": "overdraw",
+      "V2": "overdrew",
+      "V3": "overdrawn",
+      "meaning": "rút quá số tiền, phóng đại"
+    },
+    {
+      "number": "175",
+      "infinitive": "overdrink",
+      "V2": "overdrank",
+      "V3": "overdrunk",
+      "meaning": "uống quá nhiều"
+    },
+    {
+      "number": "176",
+      "infinitive": "overeat",
+      "V2": "overate",
+      "V3": "overeaten",
+      "meaning": "ăn quá nhiều"
+    },
+    {
+      "number": "177",
+      "infinitive": "overfeed",
+      "V2": "overfed",
+      "V3": "overfed",
+      "meaning": "cho ăn quá mức"
+    },
+    {
+      "number": "178",
+      "infinitive": "overfly",
+      "V2": "overflew",
+      "V3": "overflown",
+      "meaning": "bay qua"
+    },
+    {
+      "number": "179",
+      "infinitive": "overhang",
+      "V2": "overhung",
+      "V3": "overhung",
+      "meaning": "nhô lên trên, treo lơ lửng"
+    },
+    {
+      "number": "180",
+      "infinitive": "overhear",
+      "V2": "overheard",
+      "V3": "overheard",
+      "meaning": "nghe trộm"
+    },
+    {
+      "number": "181",
+      "infinitive": "overlay",
+      "V2": "overlaid",
+      "V3": "overlaid",
+      "meaning": "phủ lên"
+    },
+    {
+      "number": "182",
+      "infinitive": "overpay",
+      "V2": "overpaid",
+      "V3": "overpaid",
+      "meaning": "trả quá tiền"
+    },
+    {
+      "number": "183",
+      "infinitive": "override",
+      "V2": "overrode",
+      "V3": "overridden",
+      "meaning": "lạm quyền"
+    },
+    {
+      "number": "184",
+      "infinitive": "overrun",
+      "V2": "overran",
+      "V3": "overrun",
+      "meaning": "tràn ngập"
+    },
+    {
+      "number": "185",
+      "infinitive": "oversee",
+      "V2": "oversaw",
+      "V3": "overseen",
+      "meaning": "trông nom"
+    },
+    {
+      "number": "186",
+      "infinitive": "oversell",
+      "V2": "oversold",
+      "V3": "oversold",
+      "meaning": "bán quá mức"
+    },
+    {
+      "number": "187",
+      "infinitive": "oversew",
+      "V2": "oversewed",
+      "V3": "oversewn/oversewed",
+      "meaning": "may nối vắt"
+    },
+    {
+      "number": "188",
+      "infinitive": "overshoot",
+      "V2": "overshot",
+      "V3": "overshot",
+      "meaning": "đi quá đích"
+    },
+    {
+      "number": "189",
+      "infinitive": "oversleep",
+      "V2": "overslept",
+      "V3": "overslept",
+      "meaning": "ngủ quên"
+    },
+    {
+      "number": "190",
+      "infinitive": "overspeak",
+      "V2": "overspoke",
+      "V3": "overspoken",
+      "meaning": "Nói quá nhiều, nói lấn át"
+    },
+    {
+      "number": "191",
+      "infinitive": "overspend",
+      "V2": "overspent",
+      "V3": "overspent",
+      "meaning": "tiêu quá lố"
+    },
+    {
+      "number": "192",
+      "infinitive": "overspill",
+      "V2": "overspilled/overspilt",
+      "V3": "overspilled/overspilt",
+      "meaning": "đổ, làm tràn"
+    },
+    {
+      "number": "193",
+      "infinitive": "overtake",
+      "V2": "overtook",
+      "V3": "overtaken",
+      "meaning": "đuổi bắt kịp"
+    },
+    {
+      "number": "194",
+      "infinitive": "overthink",
+      "V2": "overthought",
+      "V3": "overthought",
+      "meaning": "tính trước nhiều quá"
+    },
+    {
+      "number": "195",
+      "infinitive": "overthrow",
+      "V2": "overthrew",
+      "V3": "overthrown",
+      "meaning": "lật đổ"
+    },
+    {
+      "number": "196",
+      "infinitive": "overwind",
+      "V2": "overwound",
+      "V3": "overwound",
+      "meaning": "lên dây (đồng hồ) quá chặt"
+    },
+    {
+      "number": "197",
+      "infinitive": "overwrite",
+      "V2": "overwrote",
+      "V3": "overwritten",
+      "meaning": "viết dài quá, viết đè lên"
+    },
+    {
+      "number": "198",
+      "infinitive": "partake",
+      "V2": "partook",
+      "V3": "partaken",
+      "meaning": "tham gia, dự phần"
+    },
+    {
+      "number": "199",
+      "infinitive": "pay",
+      "V2": "paid",
+      "V3": "paid",
+      "meaning": "trả (tiền)"
+    },
+    {
+      "number": "200",
+      "infinitive": "plead",
+      "V2": "pleaded/pled",
+      "V3": "pleaded/pled",
+      "meaning": "bào chữa, biện hộ"
+    },
+    {
+      "number": "201",
+      "infinitive": "prebuild",
+      "V2": "prebuilt",
+      "V3": "prebuilt",
+      "meaning": "làm nhà tiền chế"
+    },
+    {
+      "number": "202",
+      "infinitive": "predo",
+      "V2": "predid",
+      "V3": "predone",
+      "meaning": "làm trước"
+    },
+    {
+      "number": "203",
+      "infinitive": "premake",
+      "V2": "premade",
+      "V3": "premade",
+      "meaning": "làm trước"
+    },
+    {
+      "number": "204",
+      "infinitive": "prepay",
+      "V2": "prepaid",
+      "V3": "prepaid",
+      "meaning": "trả trước"
+    },
+    {
+      "number": "205",
+      "infinitive": "presell",
+      "V2": "presold",
+      "V3": "presold",
+      "meaning": "bán trước thời gian rao báo"
+    },
+    {
+      "number": "206",
+      "infinitive": "preset",
+      "V2": "preset",
+      "V3": "preset",
+      "meaning": "thiết lập sẵn, cài đặt sẵn"
+    },
+    {
+      "number": "207",
+      "infinitive": "preshrink",
+      "V2": "preshrank",
+      "V3": "preshrunk",
+      "meaning": "ngâm cho vải co trước khi may"
+    },
+    {
+      "number": "208",
+      "infinitive": "proofread",
+      "V2": "proofread",
+      "V3": "proofread",
+      "meaning": "Đọc bản thảo trước khi in"
+    },
+    {
+      "number": "209",
+      "infinitive": "prove",
+      "V2": "proved",
+      "V3": "proven/proved",
+      "meaning": "chứng minh"
+    },
+    {
+      "number": "210",
+      "infinitive": "put",
+      "V2": "put",
+      "V3": "put",
+      "meaning": "đặt, để"
+    },
+    {
+      "number": "211",
+      "infinitive": "quick-freeze",
+      "V2": "quick-froze",
+      "V3": "quick-frozen",
+      "meaning": "kết đông nhanh"
+    },
+    {
+      "number": "212",
+      "infinitive": "quit",
+      "V2": "quit/quitted",
+      "V3": "quit/quitted",
+      "meaning": "bỏ"
+    },
+    {
+      "number": "213",
+      "infinitive": "read",
+      "V2": "read",
+      "V3": "read",
+      "meaning": "đọc"
+    },
+    {
+      "number": "214",
+      "infinitive": "reawake",
+      "V2": "reawoke",
+      "V3": "reawaken",
+      "meaning": "đánh thức 1 lần nữa"
+    },
+    {
+      "number": "215",
+      "infinitive": "rebid",
+      "V2": "rebid",
+      "V3": "rebid",
+      "meaning": "trả giá, bỏ thầu"
+    },
+    {
+      "number": "216",
+      "infinitive": "rebind",
+      "V2": "rebound",
+      "V3": "rebound",
+      "meaning": "buộc lại, đóng lại"
+    },
+    {
+      "number": "218",
+      "infinitive": "rebuild",
+      "V2": "rebuilt",
+      "V3": "rebuilt",
+      "meaning": "xây dựng lại"
+    },
+    {
+      "number": "219",
+      "infinitive": "recast",
+      "V2": "recast",
+      "V3": "recast",
+      "meaning": "đúc lại"
+    },
+    {
+      "number": "220",
+      "infinitive": "recut",
+      "V2": "recut",
+      "V3": "recut",
+      "meaning": "cắt lại, băm)"
+    },
+    {
+      "number": "221",
+      "infinitive": "redeal",
+      "V2": "redealt",
+      "V3": "redealt",
+      "meaning": "phát bài lại"
+    },
+    {
+      "number": "222",
+      "infinitive": "redo",
+      "V2": "redid",
+      "V3": "redone",
+      "meaning": "làm lại"
+    },
+    {
+      "number": "223",
+      "infinitive": "redraw",
+      "V2": "redrew",
+      "V3": "redrawn",
+      "meaning": "kéo ngược lại"
+    },
+    {
+      "number": "224",
+      "infinitive": "refit",
+      "V2": "refitted/refit",
+      "V3": "refitted/refit",
+      "meaning": "luồn, xỏ"
+    },
+    {
+      "number": "225",
+      "infinitive": "regrind",
+      "V2": "reground",
+      "V3": "reground",
+      "meaning": "mài sắc lại"
+    },
+    {
+      "number": "226",
+      "infinitive": "regrow",
+      "V2": "regrew",
+      "V3": "regrown",
+      "meaning": "trồng lại"
+    },
+    {
+      "number": "227",
+      "infinitive": "rehang",
+      "V2": "rehung",
+      "V3": "rehung",
+      "meaning": "treo lại"
+    },
+    {
+      "number": "228",
+      "infinitive": "rehear",
+      "V2": "reheard",
+      "V3": "reheard",
+      "meaning": "nghe trình bày lại"
+    },
+    {
+      "number": "229",
+      "infinitive": "reknit",
+      "V2": "reknitted/reknit",
+      "V3": "reknitted/reknit",
+      "meaning": "đan lại"
+    },
+    {
+      "number": "230",
+      "infinitive": "relay",
+      "V2": "relaid",
+      "V3": "relaid",
+      "meaning": "đặt lại"
+    },
+    {
+      "number": "231",
+      "infinitive": "relay",
+      "V2": "relayed",
+      "V3": "relayed",
+      "meaning": "truyền âm lại"
+    },
+    {
+      "number": "232",
+      "infinitive": "relearn",
+      "V2": "relearned/relearnt",
+      "V3": "relearned/relearnt",
+      "meaning": "học lại"
+    },
+    {
+      "number": "233",
+      "infinitive": "relight",
+      "V2": "relit/relighted",
+      "V3": "relit/relighted",
+      "meaning": "thắp sáng lại"
+    },
+    {
+      "number": "234",
+      "infinitive": "remake",
+      "V2": "remade",
+      "V3": "remade",
+      "meaning": "làm lại, chế tạo lại"
+    },
+    {
+      "number": "235",
+      "infinitive": "rend",
+      "V2": "rent",
+      "V3": "rent",
+      "meaning": "toạc ra, xé"
+    },
+    {
+      "number": "236",
+      "infinitive": "repay",
+      "V2": "repaid",
+      "V3": "repaid",
+      "meaning": "hoàn tiền lại"
+    },
+    {
+      "number": "237",
+      "infinitive": "reread",
+      "V2": "reread",
+      "V3": "reread",
+      "meaning": "đọc lại"
+    },
+    {
+      "number": "238",
+      "infinitive": "rerun",
+      "V2": "reran",
+      "V3": "rerun",
+      "meaning": "chiếu lại, phát lại"
+    },
+    {
+      "number": "239",
+      "infinitive": "resell",
+      "V2": "resold",
+      "V3": "resold",
+      "meaning": "bán lại"
+    },
+    {
+      "number": "240",
+      "infinitive": "resend",
+      "V2": "resent",
+      "V3": "resent",
+      "meaning": "gửi lại"
+    },
+    {
+      "number": "241",
+      "infinitive": "reset",
+      "V2": "reset",
+      "V3": "reset",
+      "meaning": "đặt lại, lắp lại"
+    },
+    {
+      "number": "242",
+      "infinitive": "resew",
+      "V2": "resewed",
+      "V3": "resewn/resewed",
+      "meaning": "may/khâu lại"
+    },
+    {
+      "number": "243",
+      "infinitive": "retake",
+      "V2": "retook",
+      "V3": "retaken",
+      "meaning": "chiếm lại,tái chiếm"
+    },
+    {
+      "number": "244",
+      "infinitive": "reteach",
+      "V2": "retaught",
+      "V3": "retaught",
+      "meaning": "dạy lại"
+    },
+    {
+      "number": "245",
+      "infinitive": "retear",
+      "V2": "retore",
+      "V3": "retorn",
+      "meaning": "khóc lại"
+    },
+    {
+      "number": "246",
+      "infinitive": "retell",
+      "V2": "retold",
+      "V3": "retold",
+      "meaning": "kể lại"
+    },
+    {
+      "number": "247",
+      "infinitive": "rethink",
+      "V2": "rethought",
+      "V3": "rethought",
+      "meaning": "suy tính lại"
+    },
+    {
+      "number": "248",
+      "infinitive": "retread",
+      "V2": "retread",
+      "V3": "retread",
+      "meaning": "lại giẫm/đạp lên"
+    },
+    {
+      "number": "249",
+      "infinitive": "retrofit",
+      "V2": "retrofitted/retrofit",
+      "V3": "retrofitted/retrofit",
+      "meaning": "trang bị thêm những bộ phận mới"
+    },
+    {
+      "number": "250",
+      "infinitive": "rewake",
+      "V2": "rewoke/rewaked",
+      "V3": "rewaken/rewaked",
+      "meaning": "đánh thức lại"
+    },
+    {
+      "number": "251",
+      "infinitive": "rewear",
+      "V2": "rewore",
+      "V3": "reworn",
+      "meaning": "mặc lại"
+    },
+    {
+      "number": "252",
+      "infinitive": "reweave",
+      "V2": "rewove/reweaved",
+      "V3": "rewoven/reweaved",
+      "meaning": "dệt lại"
+    },
+    {
+      "number": "253",
+      "infinitive": "rewed",
+      "V2": "rewed/rewedded",
+      "V3": "rewed/rewedded",
+      "meaning": "kết hôn lại"
+    },
+    {
+      "number": "254",
+      "infinitive": "rewet",
+      "V2": "rewet/rewetted",
+      "V3": "rewet/rewetted",
+      "meaning": "làm ướt lại"
+    },
+    {
+      "number": "255",
+      "infinitive": "rewin",
+      "V2": "rewon",
+      "V3": "rewon",
+      "meaning": "thắng lại"
+    },
+    {
+      "number": "256",
+      "infinitive": "rewind",
+      "V2": "rewound",
+      "V3": "rewound",
+      "meaning": "cuốn lại, lên dây lại"
+    },
+    {
+      "number": "257",
+      "infinitive": "rewrite",
+      "V2": "rewrote",
+      "V3": "rewritten",
+      "meaning": "viết lại"
+    },
+    {
+      "number": "258",
+      "infinitive": "rid",
+      "V2": "rid",
+      "V3": "rid",
+      "meaning": "giải thoát"
+    },
+    {
+      "number": "259",
+      "infinitive": "ride",
+      "V2": "rode",
+      "V3": "ridden",
+      "meaning": "cưỡi"
+    },
+    {
+      "number": "260",
+      "infinitive": "ring",
+      "V2": "rang",
+      "V3": "rung",
+      "meaning": "rung chuông"
+    },
+    {
+      "number": "261",
+      "infinitive": "rise",
+      "V2": "rose",
+      "V3": "risen",
+      "meaning": "đứng dậy, mọc"
+    },
+    {
+      "number": "262",
+      "infinitive": "roughcast",
+      "V2": "roughcast",
+      "V3": "roughcast",
+      "meaning": "tạo hình phỏng chừng"
+    },
+    {
+      "number": "263",
+      "infinitive": "run",
+      "V2": "ran",
+      "V3": "run",
+      "meaning": "chạy"
+    },
+    {
+      "number": "264",
+      "infinitive": "sand-cast",
+      "V2": "sand-cast",
+      "V3": "sand-cast",
+      "meaning": "đúc bằng khuôn cát"
+    },
+    {
+      "number": "265",
+      "infinitive": "saw",
+      "V2": "sawed",
+      "V3": "sawn",
+      "meaning": "cưa"
+    },
+    {
+      "number": "266",
+      "infinitive": "say",
+      "V2": "said",
+      "V3": "said",
+      "meaning": "nói"
+    },
+    {
+      "number": "267",
+      "infinitive": "see",
+      "V2": "saw",
+      "V3": "seen",
+      "meaning": "nhìn thấy"
+    },
+    {
+      "number": "268",
+      "infinitive": "seek",
+      "V2": "sought",
+      "V3": "sought",
+      "meaning": "tìm kiếm"
+    },
+    {
+      "number": "269",
+      "infinitive": "sell",
+      "V2": "sold",
+      "V3": "sold",
+      "meaning": "bán"
+    },
+    {
+      "number": "270",
+      "infinitive": "send",
+      "V2": "sent",
+      "V3": "sent",
+      "meaning": "gửi"
+    },
+    {
+      "number": "271",
+      "infinitive": "set",
+      "V2": "set",
+      "V3": "set",
+      "meaning": "đặt, thiết lập"
+    },
+    {
+      "number": "272",
+      "infinitive": "sew",
+      "V2": "sewed",
+      "V3": "sewn/sewed",
+      "meaning": "may"
+    },
+    {
+      "number": "273",
+      "infinitive": "shake",
+      "V2": "shook",
+      "V3": "shaken",
+      "meaning": "lay, lắc"
+    },
+    {
+      "number": "274",
+      "infinitive": "shave",
+      "V2": "shaved",
+      "V3": "shaved/shaven",
+      "meaning": "cạo (râu, mặt)"
+    },
+    {
+      "number": "275",
+      "infinitive": "shear",
+      "V2": "sheared",
+      "V3": "shorn",
+      "meaning": "xén lông (cừu)"
+    },
+    {
+      "number": "276",
+      "infinitive": "shed",
+      "V2": "shed",
+      "V3": "shed",
+      "meaning": "rơi, rụng"
+    },
+    {
+      "number": "277",
+      "infinitive": "shine",
+      "V2": "shone",
+      "V3": "shone",
+      "meaning": "chiếu sáng"
+    },
+    {
+      "number": "278",
+      "infinitive": "shit",
+      "V2": "shit/shat/shitted",
+      "V3": "shit/shat/shitted",
+      "meaning": "suộc khuộng đi đại tiện"
+    },
+    {
+      "number": "279",
+      "infinitive": "shoot",
+      "V2": "shot",
+      "V3": "shot",
+      "meaning": "bắn"
+    },
+    {
+      "number": "280",
+      "infinitive": "show",
+      "V2": "showed",
+      "V3": "shown/showed",
+      "meaning": "cho xem"
+    },
+    {
+      "number": "281",
+      "infinitive": "shrink",
+      "V2": "shrank",
+      "V3": "shrunk",
+      "meaning": "co rút"
+    },
+    {
+      "number": "282",
+      "infinitive": "shut",
+      "V2": "shut",
+      "V3": "shut",
+      "meaning": "đóng lại"
+    },
+    {
+      "number": "283",
+      "infinitive": "sight-read",
+      "V2": "sight-read",
+      "V3": "sight-read",
+      "meaning": "chơi hoặc hát mà không cần nghiên cứu trước"
+    },
+    {
+      "number": "284",
+      "infinitive": "sing",
+      "V2": "sang",
+      "V3": "sung",
+      "meaning": "ca hát"
+    },
+    {
+      "number": "285",
+      "infinitive": "sink",
+      "V2": "sank",
+      "V3": "sunk",
+      "meaning": "chìm, lặn"
+    },
+    {
+      "number": "286",
+      "infinitive": "sit",
+      "V2": "sat",
+      "V3": "sat",
+      "meaning": "ngồi"
+    },
+    {
+      "number": "287",
+      "infinitive": "slay",
+      "V2": "slew",
+      "V3": "slain",
+      "meaning": "sát hại, giết hại"
+    },
+    {
+      "number": "288",
+      "infinitive": "sleep",
+      "V2": "slept",
+      "V3": "slept",
+      "meaning": "ngủ"
+    },
+    {
+      "number": "289",
+      "infinitive": "slide",
+      "V2": "slid",
+      "V3": "slid",
+      "meaning": "trượt, lướt"
+    },
+    {
+      "number": "290",
+      "infinitive": "sling",
+      "V2": "slung",
+      "V3": "slung",
+      "meaning": "ném mạnh"
+    },
+    {
+      "number": "291",
+      "infinitive": "slink",
+      "V2": "slunk",
+      "V3": "slunk",
+      "meaning": "lẻn đi"
+    },
+    {
+      "number": "292",
+      "infinitive": "slit",
+      "V2": "slit",
+      "V3": "slit",
+      "meaning": "rạch, khứa"
+    },
+    {
+      "number": "293",
+      "infinitive": "smell",
+      "V2": "smelt",
+      "V3": "smelt",
+      "meaning": "ngửi"
+    },
+    {
+      "number": "294",
+      "infinitive": "smite",
+      "V2": "smote",
+      "V3": "smitten",
+      "meaning": "đập mạnh"
+    },
+    {
+      "number": "295",
+      "infinitive": "sneak",
+      "V2": "sneaked/snuck",
+      "V3": "sneaked/snuck",
+      "meaning": "trốn, lén"
+    },
+    {
+      "number": "296",
+      "infinitive": "speak",
+      "V2": "spoke",
+      "V3": "spoken",
+      "meaning": "nói"
+    },
+    {
+      "number": "298",
+      "infinitive": "speed",
+      "V2": "sped/speeded",
+      "V3": "sped/speeded",
+      "meaning": "chạy vụt"
+    },
+    {
+      "number": "299",
+      "infinitive": "spell",
+      "V2": "spelt/spelled",
+      "V3": "spelt/spelled",
+      "meaning": "đánh vần"
+    },
+    {
+      "number": "300",
+      "infinitive": "spend",
+      "V2": "spent",
+      "V3": "spent",
+      "meaning": "tiêu xài"
+    },
+    {
+      "number": "301",
+      "infinitive": "spill",
+      "V2": "spilt/spilled",
+      "V3": "spilt/spilled",
+      "meaning": "tràn, đổ ra"
+    },
+    {
+      "number": "302",
+      "infinitive": "spin",
+      "V2": "spun/span",
+      "V3": "spun",
+      "meaning": "quay sợi"
+    },
+    {
+      "number": "303",
+      "infinitive": "spoil",
+      "V2": "spoilt/spoiled",
+      "V3": "spoilt/spoiled",
+      "meaning": "làm hỏng"
+    },
+    {
+      "number": "304",
+      "infinitive": "spread",
+      "V2": "spread",
+      "V3": "spread",
+      "meaning": "lan truyền"
+    },
+    {
+      "number": "305",
+      "infinitive": "stand",
+      "V2": "stood",
+      "V3": "stood",
+      "meaning": "đứng"
+    },
+    {
+      "number": "305",
+      "infinitive": "steal",
+      "V2": "stole",
+      "V3": "stolen",
+      "meaning": "đánh cắp"
+    },
+    {
+      "number": "306",
+      "infinitive": "stick",
+      "V2": "stuck",
+      "V3": "stuck",
+      "meaning": "ghim vào, đính"
+    },
+    {
+      "number": "307",
+      "infinitive": "sting",
+      "V2": "stung",
+      "V3": "stung",
+      "meaning": "châm, chích, đốt"
+    },
+    {
+      "number": "308",
+      "infinitive": "stink",
+      "V2": "stunk/stank",
+      "V3": "stunk",
+      "meaning": "bốc mùi hôi"
+    },
+    {
+      "number": "309",
+      "infinitive": "stride",
+      "V2": "strode",
+      "V3": "stridden",
+      "meaning": "bước sải"
+    },
+    {
+      "number": "310",
+      "infinitive": "strike",
+      "V2": "struck",
+      "V3": "struck",
+      "meaning": "đánh đập"
+    },
+    {
+      "number": "311",
+      "infinitive": "string",
+      "V2": "strung",
+      "V3": "strung",
+      "meaning": "gắn dây vào"
+    },
+    {
+      "number": "312",
+      "infinitive": "sunburn",
+      "V2": "sunburned/sunburnt",
+      "V3": "sunburned/sunburnt",
+      "meaning": "cháy nắng"
+    },
+    {
+      "number": "313",
+      "infinitive": "swear",
+      "V2": "swore",
+      "V3": "sworn",
+      "meaning": "tuyên thệ"
+    },
+    {
+      "number": "314",
+      "infinitive": "sweat",
+      "V2": "sweat/sweated",
+      "V3": "sweat/sweated",
+      "meaning": "đổ mồ hôi"
+    },
+    {
+      "number": "315",
+      "infinitive": "sweep",
+      "V2": "swept",
+      "V3": "swept",
+      "meaning": "quét"
+    },
+    {
+      "number": "316",
+      "infinitive": "swell",
+      "V2": "swelled",
+      "V3": "swollen/swelled",
+      "meaning": "phồng, sưng"
+    },
+    {
+      "number": "317",
+      "infinitive": "swim",
+      "V2": "swam",
+      "V3": "swum",
+      "meaning": "bơi lội"
+    },
+    {
+      "number": "318",
+      "infinitive": "swing",
+      "V2": "swung",
+      "V3": "swung",
+      "meaning": "đong đưa"
+    },
+    {
+      "number": "319",
+      "infinitive": "take",
+      "V2": "took",
+      "V3": "taken",
+      "meaning": "cầm, lấy"
+    },
+    {
+      "number": "320",
+      "infinitive": "teach",
+      "V2": "taught",
+      "V3": "taught",
+      "meaning": "dạy, giảng dạy"
+    },
+    {
+      "number": "321",
+      "infinitive": "tear",
+      "V2": "tore",
+      "V3": "torn",
+      "meaning": "xé, rách"
+    },
+    {
+      "number": "322",
+      "infinitive": "telecast",
+      "V2": "telecast",
+      "V3": "telecast",
+      "meaning": "phát đi bằng truyền hình"
+    },
+    {
+      "number": "323",
+      "infinitive": "tell",
+      "V2": "told",
+      "V3": "told",
+      "meaning": "kể, bảo"
+    },
+    {
+      "number": "324",
+      "infinitive": "think",
+      "V2": "thought",
+      "V3": "thought",
+      "meaning": "suy nghĩ"
+    },
+    {
+      "number": "325",
+      "infinitive": "throw",
+      "V2": "threw",
+      "V3": "thrown",
+      "meaning": "ném,, liệng"
+    },
+    {
+      "number": "326",
+      "infinitive": "thrust",
+      "V2": "thrust",
+      "V3": "thrust",
+      "meaning": "thọc, nhấn"
+    },
+    {
+      "number": "327",
+      "infinitive": "tread",
+      "V2": "trod",
+      "V3": "trodden/trod",
+      "meaning": "giẫm, đạp"
+    },
+    {
+      "number": "328",
+      "infinitive": "typewrite",
+      "V2": "typewrote",
+      "V3": "typewritten",
+      "meaning": "đánh máy"
+    },
+    {
+      "number": "329",
+      "infinitive": "unbend",
+      "V2": "unbent",
+      "V3": "unbent",
+      "meaning": "làm thẳng lại"
+    },
+    {
+      "number": "330",
+      "infinitive": "unbind",
+      "V2": "unbound",
+      "V3": "unbound",
+      "meaning": "mở, tháo ra"
+    },
+    {
+      "number": "331",
+      "infinitive": "unclothe",
+      "V2": "unclothed/unclad",
+      "V3": "unclothed/unclad",
+      "meaning": "cởi áo, lột trần"
+    },
+    {
+      "number": "332",
+      "infinitive": "undercut",
+      "V2": "undercut",
+      "V3": "undercut",
+      "meaning": "ra giá rẻ hơn"
+    },
+    {
+      "number": "333",
+      "infinitive": "underfeed",
+      "V2": "underfed",
+      "V3": "underfed",
+      "meaning": "cho ăn đói, thiếu ăn"
+    },
+    {
+      "number": "334",
+      "infinitive": "undergo",
+      "V2": "underwent",
+      "V3": "undergone",
+      "meaning": "kinh qua"
+    },
+    {
+      "number": "335",
+      "infinitive": "underlie",
+      "V2": "underlay",
+      "V3": "underlain",
+      "meaning": "nằm dưới"
+    },
+    {
+      "number": "336",
+      "infinitive": "understand",
+      "V2": "understood",
+      "V3": "understood",
+      "meaning": "hiểu"
+    },
+    {
+      "number": "337",
+      "infinitive": "undertake",
+      "V2": "undertook",
+      "V3": "undertaken",
+      "meaning": "đảm nhận"
+    },
+    {
+      "number": "338",
+      "infinitive": "underwrite",
+      "V2": "underwrote",
+      "V3": "underwritten",
+      "meaning": "bảo hiểm"
+    },
+    {
+      "number": "339",
+      "infinitive": "undo",
+      "V2": "undid",
+      "V3": "undone",
+      "meaning": "tháo ra"
+    },
+    {
+      "number": "340",
+      "infinitive": "unfreeze",
+      "V2": "unfroze",
+      "V3": "unfrozen",
+      "meaning": "làm tan đông"
+    },
+    {
+      "number": "341",
+      "infinitive": "unhang",
+      "V2": "unhung",
+      "V3": "unhung",
+      "meaning": "hạ xuống, bỏ xuống"
+    },
+    {
+      "number": "342",
+      "infinitive": "unhide",
+      "V2": "unhid",
+      "V3": "unhidden",
+      "meaning": "hiển thị, không ẩn"
+    },
+    {
+      "number": "343",
+      "infinitive": "unlearn",
+      "V2": "unlearned/unlearnt",
+      "V3": "unlearned/unlearnt",
+      "meaning": "gạt bỏ, quên"
+    },
+    {
+      "number": "344",
+      "infinitive": "unspin",
+      "V2": "unspun",
+      "V3": "unspun",
+      "meaning": "quay ngược"
+    },
+    {
+      "number": "345",
+      "infinitive": "unwind",
+      "V2": "unwound",
+      "V3": "unwound",
+      "meaning": "tháo ra"
+    },
+    {
+      "number": "346",
+      "infinitive": "uphold",
+      "V2": "upheld",
+      "V3": "upheld",
+      "meaning": "ủng hộ"
+    },
+    {
+      "number": "347",
+      "infinitive": "upset",
+      "V2": "upset",
+      "V3": "upset",
+      "meaning": "đánh đổ, lật đổ"
+    },
+    {
+      "number": "348",
+      "infinitive": "wake",
+      "V2": "woke/waked",
+      "V3": "woken/waked",
+      "meaning": "thức giấc"
+    },
+    {
+      "number": "349",
+      "infinitive": "wear",
+      "V2": "wore",
+      "V3": "worn",
+      "meaning": "mặc"
+    },
+    {
+      "number": "350",
+      "infinitive": "wed",
+      "V2": "wed/wedded",
+      "V3": "wed/wedded",
+      "meaning": "kết hôn"
+    },
+    {
+      "number": "351",
+      "infinitive": "weep",
+      "V2": "wept",
+      "V3": "wept",
+      "meaning": "khóc"
+    },
+    {
+      "number": "352",
+      "infinitive": "wet",
+      "V2": "wet/wetted",
+      "V3": "wet/wetted",
+      "meaning": "làm ướt"
+    },
+    {
+      "number": "353",
+      "infinitive": "win",
+      "V2": "won",
+      "V3": "won",
+      "meaning": "thắng, chiến thắng"
+    },
+    {
+      "number": "354",
+      "infinitive": "wind",
+      "V2": "wound",
+      "V3": "wound",
+      "meaning": "quấn"
+    },
+    {
+      "number": "355",
+      "infinitive": "withdraw",
+      "V2": "withdrew",
+      "V3": "withdrawn",
+      "meaning": "rút lui"
+    },
+    {
+      "number": "356",
+      "infinitive": "withhold",
+      "V2": "withheld",
+      "V3": "withheld",
+      "meaning": "từ khước"
+    },
+    {
+      "number": "357",
+      "infinitive": "withstand",
+      "V2": "withstood",
+      "V3": "withstood",
+      "meaning": "cầm cự"
+    },
+    {
+      "number": "358",
+      "infinitive": "work",
+      "V2": "worked",
+      "V3": "worked",
+      "meaning": "rèn, nhào nặn đất"
+    },
+    {
+      "number": "359",
+      "infinitive": "wring",
+      "V2": "wrung",
+      "V3": "wrung",
+      "meaning": "vặn, siết chặt"
+    },
+    {
+      "number": "360",
+      "infinitive": "write",
+      "V2": "wrote",
+      "V3": "written",
+      "meaning": "viết"
+    }
+  ]
+}
